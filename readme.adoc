@@ -1,2 +1,7 @@
-[[lucaslarson]]
-== LucasLarson
+[[lucaslarsongithubio]]
+== LucasLarson.github.io
+A https://lucaslarson.github.io[redirect^].
+
+[[lucaslarsonnet]]
+=== LucasLarson.net
+A https://lucaslarson.net[redirect target^]. You’re very&nbsp;welcome!
