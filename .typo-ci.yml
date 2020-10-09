@@ -37,7 +37,7 @@ excluded_words:
   - Crashlytics
   - csharp  # CodeQL Analysis
   - cyberciti  # cyberciti.biz
-  - esolangs
+  - esolang
   - ffs
   - guillaumealgis  # guillaumealgis/XcodeWarningsAsXcconfig
   - ibiqlik  # ibiqlik/action-yamllint
@@ -56,6 +56,7 @@ excluded_words:
 
   # AsciiDoc
   - adoc
+  - toclevels
 
   # CSS
   - webtv
@@ -103,6 +104,7 @@ excluded_words:
   - unsequenced
   - Wcall
   - Wdefaulted
+  - webfont
   - Weffc
   - Wextra
   - Wmemset
@@ -127,6 +129,11 @@ excluded_words:
   - ossar
   - Otechie
   - sarif  # OSSAR
+
+  # Gitpod
+  - bastet  # gitpod-io/gitpod
+  - runtimes
+  - tetris
 
   # JetBrains
   - iml
