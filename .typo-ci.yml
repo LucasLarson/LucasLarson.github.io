@@ -135,6 +135,9 @@ excluded_words:
   - runtimes
   - tetris
 
+  # Google
+  - gtag
+
   # JetBrains
   - iml
   - ipr
@@ -213,4 +216,4 @@ excluded_words:
 
 
 # Filename spellchecking
-spellcheck_filenames: false
+spellcheck_filenames: true
