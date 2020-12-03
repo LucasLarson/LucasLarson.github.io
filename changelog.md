@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Update peter-evans/create-pull-request action to v3.5.1 [\#35](https://github.com/LucasLarson/LucasLarson.github.io/pull/35) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.5.0 [\#33](https://github.com/LucasLarson/LucasLarson.github.io/pull/33) ([renovate[bot]](https://github.com/apps/renovate))
 - remove CodeQL analysis from inapplicable repository [\#32](https://github.com/LucasLarson/LucasLarson.github.io/pull/32) ([LucasLarson](https://github.com/LucasLarson))
 - Update ibiqlik/action-yamllint action to v3 [\#30](https://github.com/LucasLarson/LucasLarson.github.io/pull/30) ([renovate[bot]](https://github.com/apps/renovate))
