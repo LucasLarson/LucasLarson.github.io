@@ -4,8 +4,13 @@
 
 [Full Changelog](https://github.com/LucasLarson/LucasLarson.github.io/compare/v0.1.0...HEAD)
 
+**Closed issues:**
+
+- Action Required: Fix Renovate Configuration [\#38](https://github.com/LucasLarson/LucasLarson.github.io/issues/38)
+
 **Merged pull requests:**
 
+- Update peter-evans/create-pull-request action to v3.7.0 [\#39](https://github.com/LucasLarson/LucasLarson.github.io/pull/39) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.6.0 [\#37](https://github.com/LucasLarson/LucasLarson.github.io/pull/37) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.5.2 [\#36](https://github.com/LucasLarson/LucasLarson.github.io/pull/36) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.5.1 [\#35](https://github.com/LucasLarson/LucasLarson.github.io/pull/35) ([renovate[bot]](https://github.com/apps/renovate))
