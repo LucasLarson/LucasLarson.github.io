@@ -10,6 +10,7 @@
 
 **Merged pull requests:**
 
+- Update peter-evans/create-pull-request action to v3.8.2 [\#40](https://github.com/LucasLarson/LucasLarson.github.io/pull/40) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.7.0 [\#39](https://github.com/LucasLarson/LucasLarson.github.io/pull/39) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.6.0 [\#37](https://github.com/LucasLarson/LucasLarson.github.io/pull/37) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.5.2 [\#36](https://github.com/LucasLarson/LucasLarson.github.io/pull/36) ([renovate[bot]](https://github.com/apps/renovate))
