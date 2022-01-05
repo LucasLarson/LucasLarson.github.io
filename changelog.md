@@ -6,10 +6,12 @@
 
 **Closed issues:**
 
+- `actions/setup-ruby` is deprecated [\#45](https://github.com/LucasLarson/LucasLarson.github.io/issues/45)
 - Action Required: Fix Renovate Configuration [\#38](https://github.com/LucasLarson/LucasLarson.github.io/issues/38)
 
 **Merged pull requests:**
 
+- replace deprecated `actions/setup-ruby` with `ruby/setup-ruby` \(fix \#45\) [\#53](https://github.com/LucasLarson/LucasLarson.github.io/pull/53) ([LucasLarson](https://github.com/LucasLarson))
 - Update github/super-linter action to v4 [\#52](https://github.com/LucasLarson/LucasLarson.github.io/pull/52) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.8.2 [\#40](https://github.com/LucasLarson/LucasLarson.github.io/pull/40) ([renovate[bot]](https://github.com/apps/renovate))
 - Update peter-evans/create-pull-request action to v3.7.0 [\#39](https://github.com/LucasLarson/LucasLarson.github.io/pull/39) ([renovate[bot]](https://github.com/apps/renovate))
