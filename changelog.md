@@ -16,6 +16,7 @@
 
 **Merged pull requests:**
 
+- bump `peter-evans/create-pull-request` from v3 to v4 [\#59](https://github.com/LucasLarson/LucasLarson.github.io/pull/59) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump `actions/cache` action from v2 to v3 [\#56](https://github.com/LucasLarson/LucasLarson.github.io/pull/56) ([renovate[bot]](https://github.com/apps/renovate))
 - bump actions/checkout from v2 to v3 [\#55](https://github.com/LucasLarson/LucasLarson.github.io/pull/55) ([dependabot[bot]](https://github.com/apps/dependabot))
 - replace deprecated `actions/setup-ruby` with `ruby/setup-ruby` \(fix \#45\) [\#53](https://github.com/LucasLarson/LucasLarson.github.io/pull/53) ([LucasLarson](https://github.com/LucasLarson))
