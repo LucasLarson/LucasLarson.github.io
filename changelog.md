@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/LucasLarson/LucasLarson.github.io/compare/v0.1.0...HEAD)
 
+**Implemented enhancements:**
+
+- remove @Google Analytics from active content [\#60](https://github.com/LucasLarson/LucasLarson.github.io/issues/60)
+- remove @Google Analytics from active content \(fix \#60\) [\#61](https://github.com/LucasLarson/LucasLarson.github.io/pull/61) ([LucasLarson](https://github.com/LucasLarson))
+
 **Closed issues:**
 
 - `actions/setup-ruby` is deprecated [\#45](https://github.com/LucasLarson/LucasLarson.github.io/issues/45)
