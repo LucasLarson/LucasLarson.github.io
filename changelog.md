@@ -9,6 +9,10 @@
 - remove @Google Analytics from active content [\#60](https://github.com/LucasLarson/LucasLarson.github.io/issues/60)
 - remove @Google Analytics from active content \(fix \#60\) [\#61](https://github.com/LucasLarson/LucasLarson.github.io/pull/61) ([LucasLarson](https://github.com/LucasLarson))
 
+**Fixed bugs:**
+
+- `git.io` deprecation [\#62](https://github.com/LucasLarson/LucasLarson.github.io/issues/62)
+
 **Closed issues:**
 
 - `actions/setup-ruby` is deprecated [\#45](https://github.com/LucasLarson/LucasLarson.github.io/issues/45)
@@ -16,6 +20,7 @@
 
 **Merged pull requests:**
 
+- remove `git.io` links \(fix \#62\) [\#63](https://github.com/LucasLarson/LucasLarson.github.io/pull/63) ([LucasLarson](https://github.com/LucasLarson))
 - bump `peter-evans/create-pull-request` from v3 to v4 [\#59](https://github.com/LucasLarson/LucasLarson.github.io/pull/59) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump `actions/cache` action from v2 to v3 [\#56](https://github.com/LucasLarson/LucasLarson.github.io/pull/56) ([renovate[bot]](https://github.com/apps/renovate))
 - bump actions/checkout from v2 to v3 [\#55](https://github.com/LucasLarson/LucasLarson.github.io/pull/55) ([dependabot[bot]](https://github.com/apps/dependabot))
