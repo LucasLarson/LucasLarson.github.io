@@ -63,7 +63,7 @@
 - add GitHub Super-Linter [\#4](https://github.com/LucasLarson/LucasLarson.github.io/pull/4) ([LucasLarson](https://github.com/LucasLarson))
 - add @GitHub’s Super-Linter [\#3](https://github.com/LucasLarson/LucasLarson.github.io/pull/3) ([LucasLarson](https://github.com/LucasLarson))
 - add @GitHub’s CodeQL analysis [\#2](https://github.com/LucasLarson/LucasLarson.github.io/pull/2) ([LucasLarson](https://github.com/LucasLarson))
-- Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/LucasLarson.github.io/pull/1) ([whitesource-bolt-for-github[bot]](https://github.com/apps/whitesource-bolt-for-github))
+- Configure WhiteSource Bolt for GitHub [\#1](https://github.com/LucasLarson/LucasLarson.github.io/pull/1) ([mend-bolt-for-github[bot]](https://github.com/apps/mend-bolt-for-github))
 
 ## [v0.0.1](https://github.com/LucasLarson/LucasLarson.github.io/tree/v0.0.1) (2017-07-11)
 
