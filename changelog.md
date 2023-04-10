@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- bump peter-evans/create-pull-request from 4 to 5 [\#64](https://github.com/LucasLarson/LucasLarson.github.io/pull/64) ([dependabot[bot]](https://github.com/apps/dependabot))
 - remove `git.io` links \(fix \#62\) [\#63](https://github.com/LucasLarson/LucasLarson.github.io/pull/63) ([LucasLarson](https://github.com/LucasLarson))
 - bump `peter-evans/create-pull-request` from v3 to v4 [\#59](https://github.com/LucasLarson/LucasLarson.github.io/pull/59) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump `actions/cache` action from v2 to v3 [\#56](https://github.com/LucasLarson/LucasLarson.github.io/pull/56) ([renovate[bot]](https://github.com/apps/renovate))
