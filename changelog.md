@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- chore\(deps\): bump calibreapp/image-actions from v1.1.0 to v1.4.1 [\#77](https://github.com/LucasLarson/LucasLarson.github.io/pull/77) ([renovate[bot]](https://github.com/apps/renovate))
 - bump create-pull-request from v5 to v7 [\#75](https://github.com/LucasLarson/LucasLarson.github.io/pull/75) ([renovate[bot]](https://github.com/apps/renovate))
 - bump ad-m/github-push-action from 0.6.0 to 0.8.0 [\#69](https://github.com/LucasLarson/LucasLarson.github.io/pull/69) ([dependabot[bot]](https://github.com/apps/dependabot))
 - bump github/super-linter from v4 to v5 [\#65](https://github.com/LucasLarson/LucasLarson.github.io/pull/65) ([renovate[bot]](https://github.com/apps/renovate))
