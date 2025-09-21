@@ -20,6 +20,7 @@
 
 **Merged pull requests:**
 
+- chore\(deps\): bump super-linter from v5 to v8 [\#79](https://github.com/LucasLarson/LucasLarson.github.io/pull/79) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): bump ad-m/github-push-action from v0.8.0 to v1.0.0 [\#78](https://github.com/LucasLarson/LucasLarson.github.io/pull/78) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): bump calibreapp/image-actions from v1.1.0 to v1.4.1 [\#77](https://github.com/LucasLarson/LucasLarson.github.io/pull/77) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): bump actions/checkout from v3 to v5 [\#76](https://github.com/LucasLarson/LucasLarson.github.io/pull/76) ([renovate[bot]](https://github.com/apps/renovate))
